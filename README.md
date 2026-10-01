@@ -18,6 +18,8 @@ Standardize incident categorization.
 
 Speed up the incident resolution process.
 
+
+
 Platform
 
 Platform: ServiceNow
@@ -25,6 +27,12 @@ Platform: ServiceNow
 Environment: ServiceNow Developer Instance (PDI)
 
 Application: Incident Management
+Network flow
+
+![Auto Ticket Classification workflow](Auto_Ticket_Classification.png)
+Hardware Test
+![Hardware Test](hardware_test.png)
+
 
 Tables: incident, along with supporting configuration/data tables
 
